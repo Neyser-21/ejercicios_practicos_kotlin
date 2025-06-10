@@ -1,3 +1,2 @@
-echo "# ejercicios_practicos_kotlin" >> README.md
-
+En proceso
 -los publicare cuando tenga varios-
